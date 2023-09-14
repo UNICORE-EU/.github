@@ -8,11 +8,25 @@ for a wide variety of applications in intranets and the internet.
 
 Find end-user and admin-level documentation at
 
-https://unicore-docs.readthedocs.io/en/latest/
+ - [UNICORE servers and clients](https://unicore-docs.readthedocs.io/en/latest)
+ - [UFTP servers and clients](https://uftp-docs.readthedocs.io/en/latest)
 
-https://uftp-docs.readthedocs.io/en/latest/
+### Downloading binaries
+
+Binary files can be downloaded [from Sourceforge](https://sourceforge.net/projects/unicore/files) or
+via the GitHub releases sections of the various components.
+
+#### UNICORE
+
+- [UNICORE Server bundle](https://github.com/UNICORE-EU/server-bundle/releases)
+- [UNICORE TSI](https://github.com/UNICORE-EU/tsi/releases)
+- [UNICORE Commandline client](https://github.com/UNICORE-EU/commandline-client/releases)
+
+#### UFTP
+
+- [UFTP Authserver](https://github.com/UNICORE-EU/uftp/releases/tag/authserver-2.8.2)
 
 ### Related
 
-The PyUNICORE Python client library is maintained as part of the Human Brain Project Github organisation:
-https://github.com/HumanBrainProject/pyunicore/
+The [PyUNICORE Python client library](https://github.com/HumanBrainProject/pyunicore) is maintained as part of the Human Brain Project Github organisation.
+
