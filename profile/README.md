@@ -13,6 +13,9 @@ Find end-user and admin-level documentation at
 
 ### Downloading binaries
 
+Do you want to try out UINICORE? Have a look at ["Getting started"](https://unicore-docs.readthedocs.io/en/latest/gettingstarted.html) 
+and this ["How to"](https://unicore-docs.readthedocs.io/en/latest/howto-singlecluster.html) guide.
+
 Binary files can be downloaded [from Sourceforge](https://sourceforge.net/projects/unicore/files) or
 via the GitHub releases sections of the various components.
 
