@@ -1,8 +1,13 @@
 ### What is UNICORE
-UNICORE (UNiform Interface to COmputing REsources) provides tools and
+[UNICORE](https://unicore-docs.readthedocs.io/en/latest/overview.html)
+(UNiform Interface to COmputing REsources) provides tools and
 services for building federated systems, making high-performance
 computing and data resources accessible in a seamless and secure way
 for a wide variety of applications in intranets and the internet.
+
+[UFTP](https://uftp-docs.readthedocs.io/en/latest/overview.html) 
+is a a set of components based on UNICORE (e.g. for authentication and
+user attribute mapping) but is limited to high-performance data tranfer
 
 ### Documentation
 
