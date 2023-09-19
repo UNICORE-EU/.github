@@ -4,10 +4,13 @@
 services for building federated systems, making high-performance
 computing and data resources accessible in a seamless and secure way
 for a wide variety of applications in intranets and the internet.
+UNICORE provides [REST APIs](https://unicore-docs.readthedocs.io/en/latest/user-docs/rest-api/index.html)
+for running jobs and workflows as well as accessing and transferring data.
 
 [UFTP](https://uftp-docs.readthedocs.io/en/latest/overview.html) 
 is a a set of components based on UNICORE (e.g. for authentication and
-user attribute mapping) but is limited to high-performance data tranfer
+user attribute mapping), providing high-performance data tranfer and
+data sharing functionalities.
 
 ### Documentation
 
