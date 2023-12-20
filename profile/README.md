@@ -36,7 +36,7 @@ via the GitHub releases sections of the various components.
 #### UFTP
 
 - [UFTP Authserver](https://github.com/UNICORE-EU/uftp/releases/tag/authserver-2.8.2)
-- [UFTP Java commandline client](https://github.com/UNICORE-EU/uftp-javaclient/releases/tag/1.8.0)
+- [UFTP Java commandline client](https://github.com/UNICORE-EU/uftp-javaclient/releases)
 
 ### Related
 
