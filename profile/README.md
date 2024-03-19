@@ -24,8 +24,7 @@ Find end-user and admin-level documentation at
 Do you want to try out UINICORE? Have a look at ["Getting started"](https://unicore-docs.readthedocs.io/en/latest/gettingstarted.html) 
 and this ["How to"](https://unicore-docs.readthedocs.io/en/latest/howto-singlecluster.html) guide.
 
-Binary files can be downloaded [from Sourceforge](https://sourceforge.net/projects/unicore/files) or
-via the GitHub releases sections of the various components.
+Binary files can be downloaded via the GitHub releases sections of the various components.
 
 #### UNICORE
 
@@ -35,8 +34,10 @@ via the GitHub releases sections of the various components.
 
 #### UFTP
 
-- [UFTP Authserver](https://github.com/UNICORE-EU/uftp/releases/tag/authserver-2.8.2)
+- [UFTPD Fileserver](https://github.com/UNICORE-EU/uftpd/releases)
+- [UFTP Authserver](https://github.com/UNICORE-EU/uftp/releases)
 - [UFTP Java commandline client](https://github.com/UNICORE-EU/uftp-javaclient/releases)
+- [UFTP Python client](https://github.com/UNICORE-EU/pyuftp/) (installable via PyPI)
 
 ### Related
 
