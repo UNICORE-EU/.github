@@ -8,9 +8,9 @@ UNICORE provides [REST APIs](https://unicore-docs.readthedocs.io/en/latest/user-
 for running jobs and workflows as well as accessing and transferring data.
 
 [UFTP](https://uftp-docs.readthedocs.io/en/latest/overview.html) 
-is a a set of components based on UNICORE (e.g. for authentication and
-user attribute mapping), providing high-performance data tranfer and
-data sharing functionalities.
+is a a set of components providing high-performance data tranfer and
+data sharing functionalities. It combines the well-known and widely supported FTP protocol
+with UNICORE-based authentication and user attribute mapping.
 
 ### Documentation
 
