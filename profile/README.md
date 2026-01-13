@@ -19,10 +19,11 @@ Find end-user and admin-level documentation at
  - [UNICORE servers and clients](https://unicore-docs.readthedocs.io/en/latest)
  - [UFTP servers and clients](https://uftp-docs.readthedocs.io/en/latest)
 
-### Downloading binaries
-
+### Trying out UNICORE
 Do you want to try out UNICORE? Have a look at ["Getting started"](https://unicore-docs.readthedocs.io/en/latest/gettingstarted.html) 
 and this ["How to"](https://unicore-docs.readthedocs.io/en/latest/howto-singlecluster.html) guide.
+
+### Downloading binaries
 
 Binary files can be downloaded via the GitHub releases sections of the various components.
 
